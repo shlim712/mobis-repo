@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 right
 
 right1111
+=======
+left 111
+
+left111111
+>>>>>>> 2ceb33cdee313272cb57d386908a929c3c7ec2c3
